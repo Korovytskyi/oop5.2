@@ -1,0 +1,9 @@
+﻿  UnitTest1.cpp
+E:\pr\oop5.2\oop5.2\Source.cpp(58,77): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+E:\pr\oop5.2\oop5.2\Source.cpp(62,79): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+E:\pr\oop5.2\oop5.2\Source.cpp(66,78): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+E:\pr\oop5.2\oop5.2\Source.cpp(70,76): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+E:\pr\oop5.2\oop5.2\Source.cpp(101,18): warning C4273: 'terminate': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_terminate.h(29,48): message : see previous definition of 'terminate'
+E:\pr\oop5.2\oop5.2\Source.cpp(177,3): warning C4286: 'E': is caught by base class ('std::exception') on line 173
+  UnitTest1.vcxproj -> E:\pr\oop5.2\Debug\UnitTest1.dll
